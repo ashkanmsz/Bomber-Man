@@ -1,0 +1,114 @@
+ashkan
+ashkanpassword : 1234
+ashkanscore : 0
+ashkanwins : 0
+ashkanlooses : 0
+ashkanpath : null
+*************
+*************
+*************
+ali
+alipassword : 1234
+aliscore : 0
+aliwins : 0
+alilooses : 0
+alipath : C:\Users\ashka\eclipse-workspace\Project6\2.jpg
+*************
+amirhossein
+amirhosseinpassword : 123
+amirhosseinscore : 0
+amirhosseinwins : 0
+amirhosseinlooses : 0
+amirhosseinpath : null
+*************
+amirhossein
+amirhosseinpassword : 123
+amirhosseinscore : 0
+amirhosseinwins : 0
+amirhosseinlooses : 1
+amirhosseinpath : null
+*************
+amirhossein
+amirhosseinpassword : 123
+amirhosseinscore : 10
+amirhosseinwins : 1
+amirhosseinlooses : 1
+amirhosseinpath : null
+*************
+
+password : 
+score : 0
+wins : 0
+looses : 0
+path : null
+*************
+null
+nullpassword : null
+nullscore : 0
+nullwins : 0
+nulllooses : 1
+nullpath : null
+*************
+ashkan_msz
+ashkan_mszpassword : 1378
+ashkan_mszscore : 0
+ashkan_mszwins : 0
+ashkan_mszlooses : 0
+ashkan_mszpath : C:\Users\ashka\eclipse-workspace\Project5\images\IMG_20180506_010241-1.jpg
+*************
+ashkan_msz
+ashkan_mszpassword : 1378
+ashkan_mszscore : 0
+ashkan_mszwins : 0
+ashkan_mszlooses : 1
+ashkan_mszpath : C:\Users\ashka\eclipse-workspace\Project5\images\IMG_20180506_010241-1.jpg
+*************
+ashkan2
+ashkan2password : 1234
+ashkan2score : 0
+ashkan2wins : 0
+ashkan2looses : 0
+ashkan2path : C:\Users\ashka\eclipse-workspace\Project5\images\34.jpg
+*************
+ashkan2
+ashkan2password : 1234
+ashkan2score : 0
+ashkan2wins : 0
+ashkan2looses : 1
+ashkan2path : C:\Users\ashka\eclipse-workspace\Project5\images\34.jpg
+*************
+moein
+moeinpassword : 1234
+moeinscore : 0
+moeinwins : 0
+moeinlooses : 0
+moeinpath : E:\96\20171119_214213.jpg
+*************
+moein
+moeinpassword : 1234
+moeinscore : 0
+moeinwins : 0
+moeinlooses : 1
+moeinpath : E:\96\20171119_214213.jpg
+*************
+ashkan
+ashkanpassword : 1234
+ashkanscore : 0
+ashkanwins : 0
+ashkanlooses : 0
+ashkanpath : null
+*************
+null
+nullpassword : null
+nullscore : 0
+nullwins : 0
+nulllooses : 1
+nullpath : null
+*************
+null
+nullpassword : null
+nullscore : 0
+nullwins : 0
+nulllooses : 1
+nullpath : null
+*************
